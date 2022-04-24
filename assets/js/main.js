@@ -53,8 +53,30 @@ function activeWork() {
 linkWork.forEach(l => l.addEventListener('click', activeWork))
 
 /*=============== SWIPER TESTIMONIAL ===============*/
-
-
+let swiperTestimonial = new Swiper(".testimonial__container", {
+    slidesPerView: "auto",
+    spaceBetween: 24,
+    loop: true,
+    grapCursor: true,
+    pagination: {
+        el: ".swiper-pagination",
+        clickable: true,
+    },
+    breakpoints: {
+        576: {
+          slidesPerView: 2,
+        //   spaceBetween: 20,
+        },
+        768: {
+          slidesPerView: 2,
+          spaceBetween: 48,
+        },
+        // 1024: {
+        //   slidesPerView: 5,
+        //   spaceBetween: 50,
+        // },
+    },
+});
 /*=============== SCROLL SECTIONS ACTIVE LINK ===============*/
 
 
