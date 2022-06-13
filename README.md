@@ -68,6 +68,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias e ferramentas:
 - [HTML5](https://www.w3schools.com/html/)
 - [CSS3](https://www.w3schools.com/Css/)
 - [Javascript](https://www.w3schools.com/js/DEFAULT.asp)
+- [Swiper](https://swiperjs.com/)
+- [ScrollReveal](https://scrollrevealjs.org/)
+- [Google Fonts](https://fonts.google.com/)
+- [Mixitup](https://www.kunkalabs.com/mixitup/)
 
 <br>
 
