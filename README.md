@@ -24,17 +24,17 @@
 Este projeto consiste em um modelo de portfolio que pode ser usado por desenvolvedores, freelancers entre outros, para expor seus projetos e suas habilidades aos possíveis clientes e recruters. 
 <br>
 
-### Sessão home Dark
+### Sessão Home Dark
 
 <p align="center">
-    <img alt="Imagem da Tela Inicial" title="Tela Inicial" 
+    <img alt="Imagem da Sessão home Dark" title="Sessão Home Dark" 
     src=".github/home-dark.png" />
 </p>
 <br>
 
 ### Sessão Sobre Dark
 <p align="center">
-    <img alt="Imagem da Tela Inicial" title="Tela Inicial" 
+    <img alt="Imagem da Sessão Sobre Dark" title="Sessão Sobre Dark" 
     src=".github/sobre-dark.png" />
 </p>
 <br>
@@ -42,21 +42,21 @@ Este projeto consiste em um modelo de portfolio que pode ser usado por desenvolv
 ### Sessão Home Light 
 
 <p align="center">
-    <img alt="Imagem da Tela Inicial" title="Tela Inicial" 
+    <img alt="Imagem da Sessão Home Light" title="Sessão Home Light" 
     src=".github/home-light.png" />
 </p>
 <br>
 
 ### Sessão Sobre Light
 <p align="center">
-    <img alt="Imagem da Tela Inicial" title="Tela Inicial" 
+    <img alt="Imagem da Sessão Sobre Light" title="Sessão Sobre Light" 
     src=".github/sobre-light.png" />
 </p>
 <br>
 
 ### Página de Obrigado
 <p align="center">
-    <img alt="Imagem da Tela Inicial" title="Tela Inicial" 
+    <img alt="Imagem da Tela de obrigado" title="Tela de obrigado" 
     src=".github/obrigado.png" />
 </p>
 <br>
@@ -118,7 +118,7 @@ Feito com ♥ by
 ## 🤝 Agradecimentos
 
 <p align="center">
-    <img alt="Imagem da Tela Inicial" title="Tela Inicial" 
+    <img alt="Logo da Bedimcode" title="Logo da Bedimcode" 
     src=".github/bedimcode.png" />
 </p>
 <br>
